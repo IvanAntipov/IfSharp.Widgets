@@ -1,13 +1,13 @@
 # IfSharp.Widgets
 Interactive widgets for IfSharp https://github.com/fsprojects/IfSharp
 
-# Example
-https://nbviewer.jupyter.org/github/IvanAntipov/IfSharp.Widgets/blob/master/examples/IfSharp.Widgets.Example.ipynb
+# Screenshot
+![alt text](https://github.com/IvanAntipov/IfSharp.Widgets/blob/master/screenshots/IfSharpWidgets.png "Usage example")
 
 # Nuget
 IfSharp.Widgets
 
-#Usage
+# Usage
 ```
 #load "Paket.fsx"
 Paket.Package [ "IfSharp.Widgets" ]
