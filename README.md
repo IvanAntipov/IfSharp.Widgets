@@ -4,7 +4,7 @@ Interactive widgets for IfSharp https://github.com/fsprojects/IfSharp
 # Example
 https://nbviewer.jupyter.org/github/IvanAntipov/IfSharp.Widgets/blob/master/examples/IfSharp.Widgets.Example.ipynb
 
-#Nuget
+# Nuget
 IfSharp.Widgets
 
 #Usage
@@ -28,6 +28,6 @@ userModels
 # Current status
 CheckBox widget implemented
 
-#Road map
+# Road map
 1. Display interaction failures
 2. Implement TextBox widget
