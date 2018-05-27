@@ -1,0 +1,11 @@
+type file
+id IfSharp.Widgets
+version 0.0.1
+authors IvanAntipov
+licenseUrl https://github.com/IvanAntipov/IfSharp.Widgets/blob/master/LICENSE
+projectUrl https://github.com/IvanAntipov/IfSharp.Widgets
+description
+  Interactive widges for IfSharp
+
+files
+  ../scr/IfSharpWidgets.fsx ==> .

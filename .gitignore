@@ -1,0 +1,6 @@
+.paket/paket.exe
+packages
+paket-files
+Nuget/.nupkg
+Nuget/.build
+.fake
