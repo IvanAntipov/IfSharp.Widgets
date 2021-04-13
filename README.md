@@ -1,3 +1,6 @@
+# Obsolete!!!!!
+Use https://github.com/dotnet/interactive
+
 # IfSharp.Widgets
 Interactive widgets for IfSharp https://github.com/fsprojects/IfSharp
 
